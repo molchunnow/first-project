@@ -1,1 +1,2 @@
 1. read three lesson git
+2. study same lesson to GIT
